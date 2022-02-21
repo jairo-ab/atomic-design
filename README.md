@@ -1,5 +1,8 @@
 # atomic-design
 
+## Screenshot
+<img src="shot.png">
+
 ## Project setup
 ```
 yarn install
